@@ -1,10 +1,8 @@
 const CACHE_NAME = 'v1';
 const URLS_TO_CACHE = [
   'https://script.google.com/macros/s/AKfycbyPEsGBejD4YkZBue-YbWl5fCY6MbOes3DlYmp9LoYMZz5AfDEd2ByQdfFvD4-bwpCt9A/exec',
-  'https://raw.githubusercontent.com/Sushi0998/Webapp/main/manifest.json',
-  'https://raw.githubusercontent.com/Sushi0998/Webapp/main/service-worker.js',
-  'https://raw.githubusercontent.com/Sushi0998/Webapp/main/Icon.jpg'
-  
+  'https://drive.google.com/uc?export=download&id=1-nWXc-wmxxsogx-UuGB83k0lVxT0YmeS',
+  'https://drive.google.com/uc?export=download&id=1PjOEs1k1N2XuGGfkPOQIyBqi_pY-SlhO'
 ];
 
 self.addEventListener('install', event => {
