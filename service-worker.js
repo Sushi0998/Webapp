@@ -2,7 +2,7 @@ const CACHE_NAME = 'v1';
 const URLS_TO_CACHE = [
   'https://script.google.com/macros/s/AKfycbyPEsGBejD4YkZBue-YbWl5fCY6MbOes3DlYmp9LoYMZz5AfDEd2ByQdfFvD4-bwpCt9A/exec',
   'https://raw.githubusercontent.com/Sushi0998/Webapp/main/manifest.json',
-  'https://Sushi0998.github.io/Webapp/service-worker.js',
+  'https://raw.githubusercontent.com/Sushi0998/Webapp/main/service-worker.js',
   ''
   
 ];
